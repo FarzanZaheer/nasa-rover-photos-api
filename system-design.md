@@ -2,7 +2,7 @@
 
 ![system design](./system-design.png "System Design")
 
-I created the above system diagram using draw.io. Following is a brief discussion of the above system diagram.
+I created the above system diagram using draw.io. The link to the original sketch is [original sketch](https://drive.google.com/file/d/1sRbMoX7md0CoSISf4r2jRJB1sDwM6JuX/view?usp=drive_link "Original Sketch"). Following is a brief discussion of the above system diagram.
 
 ### Single Server vs Multi Server
 Since it is a public API. I would be suitable to have *horizontal scaling* as compared to *vertical scaling*, because *vertical scaling* has its limit to the resource that can be added to a single server.
