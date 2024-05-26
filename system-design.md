@@ -1,6 +1,6 @@
 # Nasa Mars Rover Photos System Design
 
-![system design](./system-design.svg "System Design")
+![system design](./system-design.png "System Design")
 
 I created the above system diagram using draw.io. Following is a brief discussion of the above system diagram.
 
