@@ -7,6 +7,9 @@ I created the above system diagram using draw.io. The link to the original sketc
 ### Single Server vs Multi Server
 Since it is a public API. I would be suitable to have *horizontal scaling* as compared to *vertical scaling*, because *vertical scaling* has its limit to the resource that can be added to a single server.
 
+### API Gateway
+API Gateways is the point of entry for user requests. It is resposible for routing user requests, handles authentication, rate limiting etc.
+
 ### Load Balancer
 The load balancer evenly distributes the incoming traffic among the web servers. Even if one server goes down the traffic will be distributed among other servers. Another server will be added to the server pool.
 
